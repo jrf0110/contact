@@ -4,7 +4,7 @@
   "scripts": {
     "start": "node app"
   },
-  "main": "app.js"
+  "main": "app.js",
   "dependencies": {
     "express": "3.0.6",
     "jade": "*"
