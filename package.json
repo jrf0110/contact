@@ -1,0 +1,12 @@
+{
+  "name": "contact.j0.hn",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node app"
+  },
+  "main": "app.js"
+  "dependencies": {
+    "express": "3.0.6",
+    "jade": "*"
+  }
+}
